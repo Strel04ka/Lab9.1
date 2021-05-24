@@ -1,0 +1,11 @@
+﻿  Lab9.1(1).cpp
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(33,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(54,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(69,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(70,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(80,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(89,13): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(90,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(100,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Oleg\source\repos\Lab9.1(1)\Lab9.1(1)\Lab9.1(1).cpp(101,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab9.1(1).vcxproj -> C:\Users\Oleg\source\repos\Lab9.1(1)\Debug\Lab9.1(1).exe
